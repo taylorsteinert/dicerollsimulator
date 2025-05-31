@@ -1,7 +1,7 @@
 import random
 
 print("""
-Welcome to the Dice Rolling Simulator!
+Welcome to the Dice Roller Simulator!
 --------------------------------------
 These are your available options:
 D4
